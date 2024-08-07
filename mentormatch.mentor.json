@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66af1c43cb17c179e16a0ec5"
+  },
+  "ID": "123456",
+  "photo": "C:\\\\Users\\\\kamth\\\\mentormatch\\\\data\\\\mentormatch\\\\mentormatch\\\\pix\\\\DAVIS_BENEFELDS.jpg",
+  "desc": "I want the relationship to go both ways, so that the process would be interesting and beneficial for me and the mentee. My goal is getting rid of my indecisiveness by the pressure of my mentee to make a clear and justified decision in various situations. I would like to improve my personality traits, like leadership and persuasiveness – all the advices about training opportunities, how to practice them or how to evaluate the progress with different exercises are more than welcome. \n\n",
+  "MBTI": "ENFP"
+},
+{
+  "_id": {
+    "$oid": "66af1c43cb17c179e16a0ec6"
+  },
+  "ID": "223456",
+  "photo": "C:\\\\Users\\\\kamth\\\\mentormatch\\\\data\\\\mentormatch\\\\mentormatch\\\\pix\\\\ELIZABETE_LAIVINA.jpg",
+  "desc": "My aim is to set a plan for the next 5 years, including main milestones and goals that would allow me to develop the career I am dreaming about. I believe this mentorship program would be very beneficial and helpful, because, firstly, I would have to do the research and spend some time thinking and reflecting on my values, goals and dreams (which on a daily basis is not something I always spend enough time on). Secondly, I would have a person that holds me accountable and helps me find the “dots” that need to be connected and set the goals that need to be achieved in order to get a step closer to my dream career.",
+  "MBTI": "ISTJ"
+},
+{
+  "_id": {
+    "$oid": "66af1c43cb17c179e16a0ec7"
+  },
+  "ID": "333456",
+  "photo": "C:\\\\Users\\\\kamth\\\\mentormatch\\\\data\\\\mentormatch\\\\mentormatch\\\\pix\\\\MAI_LIIS METSTAK_PRII.jpg",
+  "desc": "I would like to build self-confidence in a way that I am able to enjoy my everyday work and start building my career towards team management positions. There are two topics I am concerned about or interested in: 1) building self-confidence in what I do to be able to do it well and in a way that brings me joy, and 2) what other fields I might want to explore in the future? I feel I need a discussion partner to find clarity in those topics and perhaps work on some exercises and tools to get to that clarity. In order to grow and gain self-confidence I’m ready to be open and honest about my struggles.",
+  "MBTI": "ISFP"
+},
+{
+  "_id": {
+    "$oid": "66af1c43cb17c179e16a0ec8"
+  },
+  "ID": "444456",
+  "photo": "C:\\\\Users\\\\kamth\\\\mentormatch\\\\data\\\\mentormatch\\\\mentormatch\\\\pix\\\\ROBERTS_RALFS VARSLAVS.jpg",
+  "desc": "I wish to improve my soft skills – leadership and social skills – to be able to fully recognize and pursue opportunities in my life. This would be crucially important in my studies and my enrollment into the Latvian job market later. Key insights, wisdom and networking opportunities made acquirable with the help of the mentor could help me with determination, making better decisions regarding me, my social circle and the wider community.",
+  "MBTI": "ISTP"
+},
+{
+  "_id": {
+    "$oid": "66af1c43cb17c179e16a0ec9"
+  },
+  "ID": "555556",
+  "photo": "C:\\\\Users\\\\kamth\\\\mentormatch\\\\data\\\\mentormatch\\\\mentormatch\\\\pix\\\\SONJA_VAINERE.jpg",
+  "desc": "I hope to become more empowered to make decisions about my future studies, what I want to do in my life. I strongly believe that mentoring can help me with developing communication skills. I’m looking to get practical advices that could help me grow professionally. I’m encouraged to take part in this program because it can help to develop my skills. ",
+  "MBTI": "INTP"
+}]
